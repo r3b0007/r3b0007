@@ -56,20 +56,4 @@ I build high-quality, scalable, and user-friendly applications across web and mo
 - **LinkedIn:** [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mohammed-albariqi-bb40bb387/)  
 - **WhatsApp:** https://wa.me/0554131736  
 
----
-
-## 📌 Featured Projects
-
-### **🌟 Full-Stack Web Application**
-A complete full-stack system with authentication, admin panel, dashboard, and API integration.
-
----
-
-### **📱 Mobile App (React Native + Expo)**
-Cross-platform mobile application built with React Native, Expo, and backend API.
-
----
-
-### **📱 Flutter Mobile App**
-Modern UI/UX Flutter app with state management and API integration.
 
