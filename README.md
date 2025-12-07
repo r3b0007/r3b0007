@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mohammed Al-Bargi 👋</h1>
+<h1 align="center">Hi there, I'm Mohammed Al-Abariqi 👋</h1>
 
 <p align="center">
   <b>Full-Stack Developer | Frontend & Backend Engineer | Mobile Developer</b>
