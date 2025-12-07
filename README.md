@@ -73,12 +73,3 @@ Cross-platform mobile application built with React Native, Expo, and backend API
 ### **📱 Flutter Mobile App**
 Modern UI/UX Flutter app with state management and API integration.
 
----
-
-## 📊 GitHub Stats (Optional)
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight)
-
----
-
-## 🙌 Thanks for visiting!
-Feel free to explore my repositories or reach out for collaboration! 🚀
