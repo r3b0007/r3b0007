@@ -53,7 +53,7 @@ I build high-quality, scalable, and user-friendly applications across web and mo
 
 ## 📬 Contact Me
 - **Email:** m.albargi22@gmail.com  
-- **LinkedIn:** [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mohammed-albariqi-bb40bb387/)  
+- **LinkedIn:** [https://linkedin.com/in/mohammed](https://www.linkedin.com/in/mohammed-albariqi-bb40bb387/)  
 - **WhatsApp:** https://wa.me/0554131736  
 
 
