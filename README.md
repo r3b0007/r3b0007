@@ -6,11 +6,12 @@
 <h1 align="center">Hi, I'm Mohammed Al-Abariqi 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer • Web & Mobile Engineer • API Architect</b>
+  <b>Full-Stack Developer • Web & Mobile Engineer • API Builder</b>
 </p>
 
 <p align="center">
-  I build complete products from idea to production using modern technologies.
+I build complete, scalable products from idea to production.<br/>
+Focused on clean code, solid architecture, and real-world solutions.
 </p>
 
 <p align="center">
@@ -22,35 +23,29 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=r3b0007&label=Profile%20Views&color=0e75b6&style=flat"/>
-  <img src="https://img.shields.io/github/followers/r3b0007?label=Followers&style=flat&color=0e75b6"/>
-</p>
-
 ---
 
 <h2 align="center">🧑‍💻 About Me</h2>
 
 <p align="center">
-I’m a <b>Full-Stack Developer</b> with strong experience in building <br/>
-<b>web applications, mobile apps, and backend systems</b> from A to Z.
+I’m a <b>Full-Stack Developer</b> with strong experience in building:<br/>
+🌐 Web applications • 📱 Mobile apps • ⚙️ Backend systems
 </p>
 
 <p align="center">
-I focus on clean architecture, scalable systems, performance optimization, <br/>
-and writing maintainable, production-ready code.
+I work across the full development cycle:<br/>
+Planning • UI/UX • Frontend • Backend • Database • Deployment
 </p>
 
 ---
 
-<h2 align="center">🎯 What I Do</h2>
+<h2 align="center">🎯 What I Focus On</h2>
 
 <p align="center">
-🌐 Web Applications • 📱 Mobile Apps • ⚙️ Backend APIs • 🗄️ Databases
-</p>
-
-<p align="center">
-REST APIs • GraphQL • Authentication • Security • System Design
+✔ Clean Architecture & Maintainable Code<br/>
+✔ Performance & Scalability<br/>
+✔ Secure APIs & Authentication<br/>
+✔ Real-world, production-ready solutions
 </p>
 
 ---
@@ -95,24 +90,38 @@ REST APIs • GraphQL • Authentication • Security • System Design
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">🧠 Development Activity</h2>
 
 <p align="center">
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=r3b0007&show_icons=true&theme=tokyonight&hide_border=true"/>
+Consistency and real coding activity matter more than numbers.
 </p>
 
-<p align="center">
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3b0007&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+---
 
+<h3 align="center">🔥 Coding Streak</h3>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=r3b0007&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
+
+<h3 align="center">🟩 Contribution Activity</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=r3b0007&theme=onedark&no-frame=true&row=1&column=6"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r3b0007&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<h3 align="center">📊 Code Overview</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3b0007&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<h3 align="center">⚡ Workflow Summary</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r3b0007&theme=tokyonight"/>
 </p>
 
 ---
@@ -120,12 +129,12 @@ REST APIs • GraphQL • Authentication • Security • System Design
 <h2 align="center">🤝 Let’s Connect</h2>
 
 <p align="center">
-📧 Email: <b>m.albargi22@gmail.com</b><br/>
-💼 LinkedIn: <b>Mohammed Al-Abariqi</b>
+📧 <b>m.albargi22@gmail.com</b><br/>
+💼 <b>LinkedIn:</b> Mohammed Al-Abariqi
 </p>
 
 ---
 
 <p align="center">
-  <i>“Building scalable systems, one clean commit at a time.”</i> ✨
+  <i>“Build real products. Write clean code. Stay consistent.”</i> 🚀
 </p>
