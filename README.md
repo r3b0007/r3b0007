@@ -107,17 +107,17 @@ I’m **Mohammed Al-Abariqi**, a **Full-Stack Developer** who builds modern, sca
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=m-albargi22&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-albargi22&layout=compact&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=r3b0007&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r3b0007&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=m-albargi22&hide_border=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=r3b0007&hide_border=true&theme=tokyonight" />
 </p>
 
 <!-- If you want trophies like the screenshot -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=m-albargi22&theme=onedark&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=r3b0007&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -127,13 +127,13 @@ I’m **Mohammed Al-Abariqi**, a **Full-Stack Developer** who builds modern, sca
 > Pin your best repos on your profile, and list top projects here.
 
 - **Project One** — Full-Stack app (Next.js + Node.js + PostgreSQL)  
-  ➜ Repo: https://github.com/m-albargi22/PROJECT_ONE
+  ➜ Repo: https://github.com/r3b0007/PROJECT_ONE
 
 - **Project Two** — Mobile app (Flutter / Expo)  
-  ➜ Repo: https://github.com/m-albargi22/PROJECT_TWO
+  ➜ Repo: https://github.com/r3b0007/PROJECT_TWO
 
 - **Project Three** — API / GraphQL service  
-  ➜ Repo: https://github.com/m-albargi22/PROJECT_THREE
+  ➜ Repo: https://github.com/r3b0007/PROJECT_THREE
 
 ---
 
